@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "notes": "Initial test manifest for Flow Prompter auto-update.",
+  "asset_url": "https://github.com/SlowMotionBH/FlowPrompter/releases/download/v0.0.1/FlowPrompter-0.0.1.exe",
+  "sha256": "REPLACE_ME_WITH_REAL_SHA256"
+}
